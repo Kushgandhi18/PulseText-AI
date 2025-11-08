@@ -1,0 +1,36 @@
+<svg id="Objects" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270" height="257.434" viewBox="0 0 270 257.434">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccf1ff" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#85daf8" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#439dd3" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#439dd3" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0" y2="1" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" y1="1" y2="0" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-10" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccf1ff" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#ccf1ff" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-12" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient-10"/>
+  </defs>
+  <path id="Pfad_31" data-name="Pfad 31" d="M515,292.84c-31,0-19.869,128.223-40.9,128.223S461.864,292.84,438.47,292.84H515Z" transform="translate(-245.002 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  <path id="Pfad_32" data-name="Pfad 32" d="M34.39,292.84c13.3,0,13.511,44.675,29.166,44.675s17.433-44.675,27.03-44.675Z" transform="translate(-19.216 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+  <path id="Pfad_33" data-name="Pfad 33" d="M273.431,183.082c-26.006,0-28.243-86.672-58.843-86.672s-34.077,86.672-52.838,86.672Z" transform="translate(-90.38 -53.871)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+  <path id="Pfad_34" data-name="Pfad 34" d="M64.742,197.358c-26.549,0-18.214-75.4-36.225-75.4s-8.481,75.4-28.517,75.4Z" transform="translate(0 -68.147)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+  <path id="Pfad_35" data-name="Pfad 35" d="M194.828,292.84c-14.9,0-9.345,77.044-22.741,77.044s-5.582-77.044-25.327-77.044h48.064Z" transform="translate(-82.004 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient-5)"/>
+  <path id="Pfad_36" data-name="Pfad 36" d="M341.341,129.211C310.274,129.211,318.092,0,297.015,0S288.1,129.211,264.65,129.211Z" transform="translate(-147.877)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+  <path id="Pfad_37" data-name="Pfad 37" d="M296.167,292.84c-12.76,0-15.125,43.894-35.947,43.894s-21.206-43.894-38.9-43.894Z" transform="translate(-123.666 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient-7)"/>
+  <path id="Pfad_38" data-name="Pfad 38" d="M126.934,262.343c-17.693,0-18.479-24.083-39.3-24.083S64.455,262.343,51.69,262.343Z" transform="translate(-28.883 -133.132)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+  <path id="Pfad_39" data-name="Pfad 39" d="M390.95,203.5c12.76,0,15.125-70.549,35.947-70.549s21.21,70.549,38.9,70.549Z" transform="translate(-218.45 -74.288)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+  <path id="Pfad_40" data-name="Pfad 40" d="M173.349,225.285c-13.806,0-9.482-53.345-18.85-53.345s-4.408,53.345-14.83,53.345Z" transform="translate(-78.043 -96.074)" fill-rule="evenodd" fill="url(#linear-gradient-10)"/>
+  <path id="Pfad_41" data-name="Pfad 41" d="M202.824,292.84c25.155,0,16.573,34.416,33.64,34.416s8.035-34.416,27.017-34.416H202.82Z" transform="translate(-113.329 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient-11)"/>
+  <path id="Pfad_42" data-name="Pfad 42" d="M400.07,165.223c-24.5,0-16.829-100.773-33.454-100.773S358.788,165.223,340.3,165.223Z" transform="translate(-190.148 -36.012)" fill-rule="evenodd" fill="url(#linear-gradient-12)"/>
+  <path id="Pfad_43" data-name="Pfad 43" d="M475.76,292.84c24.5,0,16.829,100.773,33.454,100.773S517.042,292.84,535.53,292.84Z" transform="translate(-265.838 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient-11)"/>
+  <path id="Pfad_44" data-name="Pfad 44" d="M136.776,292.84c-26.024,0-15.982,14.552-33.64,14.552S93.8,292.84,74.16,292.84Z" transform="translate(-41.438 -163.629)" fill-rule="evenodd" fill="url(#linear-gradient-11)"/>
+</svg>
