@@ -1,5 +1,5 @@
 <h1 align="center">
-  MedParser
+  PulseText
 </h1>
 
 <h4 align="center">Flutter Application that recognizes speech and converts it to Text with real time and offline</h4>
